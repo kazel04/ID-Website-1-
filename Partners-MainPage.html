@@ -1,0 +1,89 @@
+<html>
+
+<body>
+    <script>
+
+        // function for hamburger opening 
+        function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+        </script>
+
+            <!-- Hamburger menu (mobile exclusive) (ref from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar) -->
+        <!-- Change elements below and change css to hide (https://stackoverflow.com/questions/53701003/how-to-remove-the-hamburger-menu-icon-in-desktop-screen-but-only-needed-in-mobil)-->
+        <div class="topnav">
+            <a href="#home" class="active">Logo</a>
+            <div id="myLinks">
+              <a href="#news">News</a>
+              <a href="#contact">Contact</a>
+              <a href="#about">About</a>
+            </div>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
+    </div>
+
+    <!-- Outer div for header area to be shaded in by css-->
+    <div class =  "header area">
+            <!-- header logo -->
+            <div class="header"><a href="/">
+                <img></img>
+            </div>
+    
+            <!-- header list of elements (web exclusive) -->
+            <div>
+                <ul class="header-list">
+                    <li class="vision"><a href="/vision/"><span>VISION</span></a></li>
+                    <li class="whoweare"><a href="/team/"><span>TEAM</span></a></li>
+                    <li class="partner"><a href="/partners/"><span>PARTNERS</span></a></li>
+                    <li class="contact"><a href="/contactus/"><span>CONTACT US</span></a></li>
+                    <li class="language"><a href="/language/"><span>LANGUAGES</span></a></li>
+                    <li class="demo"><a href="/demo/"><span>DEMO </span></a></li>
+                  </ul>
+            </div>
+    </div>
+
+    <!-- Minor Logo for each page, to be taken from Adobe XD's assets-->
+    <div>
+        <img src="PartnersTriangle.jpg"></img>
+    </div>
+
+    <!-- title -->
+    <div>
+          <h1> Partners </h1>
+    </div>
+
+    <!-- Body Description-->
+    <div>
+      <p class= "Partners-Text"> ding dong </p>
+    </div>
+
+
+
+
+    <!-- Button for each page-->
+    <div>
+        <button class="Partner-button">What We Do</button>
+    </div>
+
+    <!-- Scroll image -->
+        <div>
+            <img></img>
+        </div>
+
+    <!-- Scroll text -->
+        <div>
+            <p class="ScrollText"> SCROLL FOR MORE </p>
+        </div>
+
+
+
+</body>
+
+
+</html>

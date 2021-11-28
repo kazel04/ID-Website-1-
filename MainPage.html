@@ -1,0 +1,83 @@
+<html>
+<head>
+<link rel="stylesheet" href="MainPage.css">
+</head>
+    <body>
+
+        <script>
+        function myFunction() {
+        var x = document.getElementById("myLinks");
+        if (x.style.display === "block") {
+            x.style.display = "none";
+        } else {
+            x.style.display = "block";  
+            }
+        }
+        </script>
+
+        <!-- Background video + add semantic tags!!!!!! -->
+        <div>
+        <video width="320" height="240" controls>
+            <source src="MyProject4_-_Unreal_Editor_2021-11-01_01-17-59_SparkVideo.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video>
+        </div>
+        
+        <!-- header logo -->
+        <div class="header"><a href="/">
+        Psyche
+        </div>
+
+        <!-- header list of elements (web exclusive) -->
+        <div>
+            <ul class="header-list">
+                <li class="vision"><a href="/vision/"><span>VISION</span></a></li>
+                <li class="whoweare"><a href="/team/"><span>TEAM</span></a></li>
+                <li class="partner"><a href="/partners/"><span>PARTNERS</span></a></li>
+                <li class="contact"><a href="/contactus/"><span>CONTACT US</span></a></li>
+                <li class="language"><a href="/language/"><span>LANGUAGES</span></a></li>
+                <li class="demo"><a href="/demo/"><span>DEMO </span></a></li>
+              </ul>
+        </div>
+
+        <!-- title -->
+        <div>
+            <h1> Metaverse </h1>
+            <h1>    X      </h1>
+            <h1>Mental Health</h1>
+        </div>
+
+        <!-- Scroll image -->
+        <div>
+            <img src="Component 1 – 1.png"></img>
+        </div>
+
+        <!-- Scroll text -->
+        <div>
+            <p class="ScrollText"> SCROLL FOR MORE </p>
+        </div>
+
+        <!-- Hamburger menu (mobile exclusive) (ref from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar) -->
+        <!-- Change elements below and change css to hide (https://stackoverflow.com/questions/53701003/how-to-remove-the-hamburger-menu-icon-in-desktop-screen-but-only-needed-in-mobil)-->
+        <div class="topnav">
+                <a href="#home" class="active">Logo</a>
+                <div id="myLinks">
+                  <a href="#news">News</a>
+                  <a href="#contact">Contact</a>
+                  <a href="#about">About</a>
+                </div>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                  <i class="fa fa-bars"></i>
+                </a>
+        </div>
+     
+
+        
+        
+
+
+    </body>
+
+
+
+</html>
