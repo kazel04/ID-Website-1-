@@ -3,6 +3,7 @@
 body{
     background-color: black;
 }
+
 .video-div{
     opacity: 0.5;
     width: 100vw;
@@ -20,6 +21,7 @@ body{
     overflow: hidden;
     position: relative;
     top: 0;
+    backface-visibility: hidden;
   }
   
   .topnav #myLinks {
