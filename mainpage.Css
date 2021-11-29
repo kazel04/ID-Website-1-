@@ -1,6 +1,8 @@
 /*CSS for mobile*/
 
-
+body{
+    background-color: black;
+}
 .video-div{
     opacity: 0.5;
     width: 100vw;
@@ -10,6 +12,8 @@
     top: 0;
     left: 0;
     z-index: -1;
+    filter: brightness(50%);
+    display: none;
 }
 
 .topnav {
@@ -48,10 +52,25 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
     color: #9B85A7;
+    font-style: regular;
+
+  }
+
+  .title{
+    position: absolute;
+    right: 30%;
+    color: #9B85A7;
+    top: 35%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
   }
   
   .ScrollImg{
     grid-area: ScrollImg;
+    position: absolute;
+    bottom: 50px;
+    right: 45%;
     
  }
   .ScrollText{
@@ -61,6 +80,9 @@
     font-size: 10px;
     position: absolute;
     bottom: 20px;
+    right: 42%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  }
 
  .header-list{
