@@ -1,0 +1,73 @@
+/*CSS for mobile*/
+
+
+.video-div{
+    opacity: 0.5;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+    top: 0;
+  }
+  
+  .topnav #myLinks {
+    display: none;
+  }
+  
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+  
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .active {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: #9B85A7;
+  }
+  
+  .ScrollImg{
+    grid-area: ScrollImg;
+    
+ }
+  .ScrollText{
+    grid-area: ScrollText;
+    color: #FFFFFF;
+    font-family: Trebuchet;
+    font-size: 10px;
+    position: absolute;
+    bottom: 20px;
+ }
+
+ .header-list{
+    display: none;
+ }
+
+
+
+
+
