@@ -74,7 +74,7 @@ body{
   .c:nth-child(1) {
     animation: orbit1 14s infinite;
     animation-delay: 0.01s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit1 {
@@ -95,7 +95,7 @@ body{
   .c:nth-child(2) {
     animation: orbit2 14s infinite;
     animation-delay: 0.02s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit2 {
@@ -116,7 +116,7 @@ body{
   .c:nth-child(3) {
     animation: orbit3 14s infinite;
     animation-delay: 0.03s;
-    background-color: #3067E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit3 {
@@ -137,7 +137,7 @@ body{
   .c:nth-child(4) {
     animation: orbit4 14s infinite;
     animation-delay: 0.04s;
-    background-color: #3067E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit4 {
@@ -158,7 +158,7 @@ body{
   .c:nth-child(5) {
     animation: orbit5 14s infinite;
     animation-delay: 0.05s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit5 {
@@ -179,7 +179,7 @@ body{
   .c:nth-child(6) {
     animation: orbit6 14s infinite;
     animation-delay: 0.06s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit6 {
@@ -200,7 +200,7 @@ body{
   .c:nth-child(7) {
     animation: orbit7 14s infinite;
     animation-delay: 0.07s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit7 {
@@ -221,7 +221,7 @@ body{
   .c:nth-child(8) {
     animation: orbit8 14s infinite;
     animation-delay: 0.08s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit8 {
@@ -242,7 +242,7 @@ body{
   .c:nth-child(9) {
     animation: orbit9 14s infinite;
     animation-delay: 0.09s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit9 {
@@ -263,7 +263,7 @@ body{
   .c:nth-child(10) {
     animation: orbit10 14s infinite;
     animation-delay: 0.1s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit10 {
@@ -284,7 +284,7 @@ body{
   .c:nth-child(11) {
     animation: orbit11 14s infinite;
     animation-delay: 0.11s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit11 {
@@ -305,7 +305,7 @@ body{
   .c:nth-child(12) {
     animation: orbit12 14s infinite;
     animation-delay: 0.12s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit12 {
@@ -326,7 +326,7 @@ body{
   .c:nth-child(13) {
     animation: orbit13 14s infinite;
     animation-delay: 0.13s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit13 {
@@ -347,7 +347,7 @@ body{
   .c:nth-child(14) {
     animation: orbit14 14s infinite;
     animation-delay: 0.14s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit14 {
@@ -368,7 +368,7 @@ body{
   .c:nth-child(15) {
     animation: orbit15 14s infinite;
     animation-delay: 0.15s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit15 {
@@ -389,7 +389,7 @@ body{
   .c:nth-child(16) {
     animation: orbit16 14s infinite;
     animation-delay: 0.16s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit16 {
@@ -410,7 +410,7 @@ body{
   .c:nth-child(17) {
     animation: orbit17 14s infinite;
     animation-delay: 0.17s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit17 {
@@ -431,7 +431,7 @@ body{
   .c:nth-child(18) {
     animation: orbit18 14s infinite;
     animation-delay: 0.18s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit18 {
@@ -452,7 +452,7 @@ body{
   .c:nth-child(19) {
     animation: orbit19 14s infinite;
     animation-delay: 0.19s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit19 {
@@ -473,7 +473,7 @@ body{
   .c:nth-child(20) {
     animation: orbit20 14s infinite;
     animation-delay: 0.2s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit20 {
@@ -494,7 +494,7 @@ body{
   .c:nth-child(21) {
     animation: orbit21 14s infinite;
     animation-delay: 0.21s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit21 {
@@ -515,7 +515,7 @@ body{
   .c:nth-child(22) {
     animation: orbit22 14s infinite;
     animation-delay: 0.22s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit22 {
@@ -536,7 +536,7 @@ body{
   .c:nth-child(23) {
     animation: orbit23 14s infinite;
     animation-delay: 0.23s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit23 {
@@ -557,7 +557,7 @@ body{
   .c:nth-child(24) {
     animation: orbit24 14s infinite;
     animation-delay: 0.24s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit24 {
@@ -578,7 +578,7 @@ body{
   .c:nth-child(25) {
     animation: orbit25 14s infinite;
     animation-delay: 0.25s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit25 {
@@ -599,7 +599,7 @@ body{
   .c:nth-child(26) {
     animation: orbit26 14s infinite;
     animation-delay: 0.26s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit26 {
@@ -620,7 +620,7 @@ body{
   .c:nth-child(27) {
     animation: orbit27 14s infinite;
     animation-delay: 0.27s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit27 {
@@ -641,7 +641,7 @@ body{
   .c:nth-child(28) {
     animation: orbit28 14s infinite;
     animation-delay: 0.28s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit28 {
@@ -662,7 +662,7 @@ body{
   .c:nth-child(29) {
     animation: orbit29 14s infinite;
     animation-delay: 0.29s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit29 {
@@ -683,7 +683,7 @@ body{
   .c:nth-child(30) {
     animation: orbit30 14s infinite;
     animation-delay: 0.3s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit30 {
@@ -704,7 +704,7 @@ body{
   .c:nth-child(31) {
     animation: orbit31 14s infinite;
     animation-delay: 0.31s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit31 {
@@ -725,7 +725,7 @@ body{
   .c:nth-child(32) {
     animation: orbit32 14s infinite;
     animation-delay: 0.32s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit32 {
@@ -746,7 +746,7 @@ body{
   .c:nth-child(33) {
     animation: orbit33 14s infinite;
     animation-delay: 0.33s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit33 {
@@ -767,7 +767,7 @@ body{
   .c:nth-child(34) {
     animation: orbit34 14s infinite;
     animation-delay: 0.34s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit34 {
@@ -788,7 +788,7 @@ body{
   .c:nth-child(35) {
     animation: orbit35 14s infinite;
     animation-delay: 0.35s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit35 {
@@ -809,7 +809,7 @@ body{
   .c:nth-child(36) {
     animation: orbit36 14s infinite;
     animation-delay: 0.36s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit36 {
@@ -830,7 +830,7 @@ body{
   .c:nth-child(37) {
     animation: orbit37 14s infinite;
     animation-delay: 0.37s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit37 {
@@ -851,7 +851,7 @@ body{
   .c:nth-child(38) {
     animation: orbit38 14s infinite;
     animation-delay: 0.38s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit38 {
@@ -872,7 +872,7 @@ body{
   .c:nth-child(39) {
     animation: orbit39 14s infinite;
     animation-delay: 0.39s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit39 {
@@ -893,7 +893,7 @@ body{
   .c:nth-child(40) {
     animation: orbit40 14s infinite;
     animation-delay: 0.4s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit40 {
@@ -914,7 +914,7 @@ body{
   .c:nth-child(41) {
     animation: orbit41 14s infinite;
     animation-delay: 0.41s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit41 {
@@ -935,7 +935,7 @@ body{
   .c:nth-child(42) {
     animation: orbit42 14s infinite;
     animation-delay: 0.42s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit42 {
@@ -956,7 +956,7 @@ body{
   .c:nth-child(43) {
     animation: orbit43 14s infinite;
     animation-delay: 0.43s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit43 {
@@ -977,7 +977,7 @@ body{
   .c:nth-child(44) {
     animation: orbit44 14s infinite;
     animation-delay: 0.44s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit44 {
@@ -998,7 +998,7 @@ body{
   .c:nth-child(45) {
     animation: orbit45 14s infinite;
     animation-delay: 0.45s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit45 {
@@ -1019,7 +1019,7 @@ body{
   .c:nth-child(46) {
     animation: orbit46 14s infinite;
     animation-delay: 0.46s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit46 {
@@ -1040,7 +1040,7 @@ body{
   .c:nth-child(47) {
     animation: orbit47 14s infinite;
     animation-delay: 0.47s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit47 {
@@ -1061,7 +1061,7 @@ body{
   .c:nth-child(48) {
     animation: orbit48 14s infinite;
     animation-delay: 0.48s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit48 {
@@ -1082,7 +1082,7 @@ body{
   .c:nth-child(49) {
     animation: orbit49 14s infinite;
     animation-delay: 0.49s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit49 {
@@ -1103,7 +1103,7 @@ body{
   .c:nth-child(50) {
     animation: orbit50 14s infinite;
     animation-delay: 0.5s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit50 {
@@ -1124,7 +1124,7 @@ body{
   .c:nth-child(51) {
     animation: orbit51 14s infinite;
     animation-delay: 0.51s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit51 {
@@ -1145,7 +1145,7 @@ body{
   .c:nth-child(52) {
     animation: orbit52 14s infinite;
     animation-delay: 0.52s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit52 {
@@ -1166,7 +1166,7 @@ body{
   .c:nth-child(53) {
     animation: orbit53 14s infinite;
     animation-delay: 0.53s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit53 {
@@ -1187,7 +1187,7 @@ body{
   .c:nth-child(54) {
     animation: orbit54 14s infinite;
     animation-delay: 0.54s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit54 {
@@ -1208,7 +1208,7 @@ body{
   .c:nth-child(55) {
     animation: orbit55 14s infinite;
     animation-delay: 0.55s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit55 {
@@ -1229,7 +1229,7 @@ body{
   .c:nth-child(56) {
     animation: orbit56 14s infinite;
     animation-delay: 0.56s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit56 {
@@ -1250,7 +1250,7 @@ body{
   .c:nth-child(57) {
     animation: orbit57 14s infinite;
     animation-delay: 0.57s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit57 {
@@ -1271,7 +1271,7 @@ body{
   .c:nth-child(58) {
     animation: orbit58 14s infinite;
     animation-delay: 0.58s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit58 {
@@ -1292,7 +1292,7 @@ body{
   .c:nth-child(59) {
     animation: orbit59 14s infinite;
     animation-delay: 0.59s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit59 {
@@ -1313,7 +1313,7 @@ body{
   .c:nth-child(60) {
     animation: orbit60 14s infinite;
     animation-delay: 0.6s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit60 {
@@ -1334,7 +1334,7 @@ body{
   .c:nth-child(61) {
     animation: orbit61 14s infinite;
     animation-delay: 0.61s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit61 {
@@ -1355,7 +1355,7 @@ body{
   .c:nth-child(62) {
     animation: orbit62 14s infinite;
     animation-delay: 0.62s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit62 {
@@ -1376,7 +1376,7 @@ body{
   .c:nth-child(63) {
     animation: orbit63 14s infinite;
     animation-delay: 0.63s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit63 {
@@ -1397,7 +1397,7 @@ body{
   .c:nth-child(64) {
     animation: orbit64 14s infinite;
     animation-delay: 0.64s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit64 {
@@ -1418,7 +1418,7 @@ body{
   .c:nth-child(65) {
     animation: orbit65 14s infinite;
     animation-delay: 0.65s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit65 {
@@ -1439,7 +1439,7 @@ body{
   .c:nth-child(66) {
     animation: orbit66 14s infinite;
     animation-delay: 0.66s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit66 {
@@ -1460,7 +1460,7 @@ body{
   .c:nth-child(67) {
     animation: orbit67 14s infinite;
     animation-delay: 0.67s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit67 {
@@ -1481,7 +1481,7 @@ body{
   .c:nth-child(68) {
     animation: orbit68 14s infinite;
     animation-delay: 0.68s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit68 {
@@ -1502,7 +1502,7 @@ body{
   .c:nth-child(69) {
     animation: orbit69 14s infinite;
     animation-delay: 0.69s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit69 {
@@ -1523,7 +1523,7 @@ body{
   .c:nth-child(70) {
     animation: orbit70 14s infinite;
     animation-delay: 0.7s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit70 {
@@ -1544,7 +1544,7 @@ body{
   .c:nth-child(71) {
     animation: orbit71 14s infinite;
     animation-delay: 0.71s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit71 {
@@ -1565,7 +1565,7 @@ body{
   .c:nth-child(72) {
     animation: orbit72 14s infinite;
     animation-delay: 0.72s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit72 {
@@ -1586,7 +1586,7 @@ body{
   .c:nth-child(73) {
     animation: orbit73 14s infinite;
     animation-delay: 0.73s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit73 {
@@ -1607,7 +1607,7 @@ body{
   .c:nth-child(74) {
     animation: orbit74 14s infinite;
     animation-delay: 0.74s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit74 {
@@ -1628,7 +1628,7 @@ body{
   .c:nth-child(75) {
     animation: orbit75 14s infinite;
     animation-delay: 0.75s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit75 {
@@ -1649,7 +1649,7 @@ body{
   .c:nth-child(76) {
     animation: orbit76 14s infinite;
     animation-delay: 0.76s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit76 {
@@ -1670,7 +1670,7 @@ body{
   .c:nth-child(77) {
     animation: orbit77 14s infinite;
     animation-delay: 0.77s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit77 {
@@ -1691,7 +1691,7 @@ body{
   .c:nth-child(78) {
     animation: orbit78 14s infinite;
     animation-delay: 0.78s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit78 {
@@ -1712,7 +1712,7 @@ body{
   .c:nth-child(79) {
     animation: orbit79 14s infinite;
     animation-delay: 0.79s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit79 {
@@ -1733,7 +1733,7 @@ body{
   .c:nth-child(80) {
     animation: orbit80 14s infinite;
     animation-delay: 0.8s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit80 {
@@ -1754,7 +1754,7 @@ body{
   .c:nth-child(81) {
     animation: orbit81 14s infinite;
     animation-delay: 0.81s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit81 {
@@ -1775,7 +1775,7 @@ body{
   .c:nth-child(82) {
     animation: orbit82 14s infinite;
     animation-delay: 0.82s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit82 {
@@ -1796,7 +1796,7 @@ body{
   .c:nth-child(83) {
     animation: orbit83 14s infinite;
     animation-delay: 0.83s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit83 {
@@ -1817,7 +1817,7 @@ body{
   .c:nth-child(84) {
     animation: orbit84 14s infinite;
     animation-delay: 0.84s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit84 {
@@ -1838,7 +1838,7 @@ body{
   .c:nth-child(85) {
     animation: orbit85 14s infinite;
     animation-delay: 0.85s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit85 {
@@ -1859,7 +1859,7 @@ body{
   .c:nth-child(86) {
     animation: orbit86 14s infinite;
     animation-delay: 0.86s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit86 {
@@ -1880,7 +1880,7 @@ body{
   .c:nth-child(87) {
     animation: orbit87 14s infinite;
     animation-delay: 0.87s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit87 {
@@ -1901,7 +1901,7 @@ body{
   .c:nth-child(88) {
     animation: orbit88 14s infinite;
     animation-delay: 0.88s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit88 {
@@ -1922,7 +1922,7 @@ body{
   .c:nth-child(89) {
     animation: orbit89 14s infinite;
     animation-delay: 0.89s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit89 {
@@ -1943,7 +1943,7 @@ body{
   .c:nth-child(90) {
     animation: orbit90 14s infinite;
     animation-delay: 0.9s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit90 {
@@ -1964,7 +1964,7 @@ body{
   .c:nth-child(91) {
     animation: orbit91 14s infinite;
     animation-delay: 0.91s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit91 {
@@ -1985,7 +1985,7 @@ body{
   .c:nth-child(92) {
     animation: orbit92 14s infinite;
     animation-delay: 0.92s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit92 {
@@ -2006,7 +2006,7 @@ body{
   .c:nth-child(93) {
     animation: orbit93 14s infinite;
     animation-delay: 0.93s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit93 {
@@ -2027,7 +2027,7 @@ body{
   .c:nth-child(94) {
     animation: orbit94 14s infinite;
     animation-delay: 0.94s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit94 {
@@ -2048,7 +2048,7 @@ body{
   .c:nth-child(95) {
     animation: orbit95 14s infinite;
     animation-delay: 0.95s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit95 {
@@ -2069,7 +2069,7 @@ body{
   .c:nth-child(96) {
     animation: orbit96 14s infinite;
     animation-delay: 0.96s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit96 {
@@ -2090,7 +2090,7 @@ body{
   .c:nth-child(97) {
     animation: orbit97 14s infinite;
     animation-delay: 0.97s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit97 {
@@ -2111,7 +2111,7 @@ body{
   .c:nth-child(98) {
     animation: orbit98 14s infinite;
     animation-delay: 0.98s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit98 {
@@ -2132,7 +2132,7 @@ body{
   .c:nth-child(99) {
     animation: orbit99 14s infinite;
     animation-delay: 0.99s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit99 {
@@ -2153,7 +2153,7 @@ body{
   .c:nth-child(100) {
     animation: orbit100 14s infinite;
     animation-delay: 1s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit100 {
@@ -2174,7 +2174,7 @@ body{
   .c:nth-child(101) {
     animation: orbit101 14s infinite;
     animation-delay: 1.01s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit101 {
@@ -2195,7 +2195,7 @@ body{
   .c:nth-child(102) {
     animation: orbit102 14s infinite;
     animation-delay: 1.02s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit102 {
@@ -2216,7 +2216,7 @@ body{
   .c:nth-child(103) {
     animation: orbit103 14s infinite;
     animation-delay: 1.03s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit103 {
@@ -2237,7 +2237,7 @@ body{
   .c:nth-child(104) {
     animation: orbit104 14s infinite;
     animation-delay: 1.04s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit104 {
@@ -2258,7 +2258,7 @@ body{
   .c:nth-child(105) {
     animation: orbit105 14s infinite;
     animation-delay: 1.05s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit105 {
@@ -2279,7 +2279,7 @@ body{
   .c:nth-child(106) {
     animation: orbit106 14s infinite;
     animation-delay: 1.06s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit106 {
@@ -2300,7 +2300,7 @@ body{
   .c:nth-child(107) {
     animation: orbit107 14s infinite;
     animation-delay: 1.07s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit107 {
@@ -2321,7 +2321,7 @@ body{
   .c:nth-child(108) {
     animation: orbit108 14s infinite;
     animation-delay: 1.08s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit108 {
@@ -2342,7 +2342,7 @@ body{
   .c:nth-child(109) {
     animation: orbit109 14s infinite;
     animation-delay: 1.09s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit109 {
@@ -2363,7 +2363,7 @@ body{
   .c:nth-child(110) {
     animation: orbit110 14s infinite;
     animation-delay: 1.1s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit110 {
@@ -2384,7 +2384,7 @@ body{
   .c:nth-child(111) {
     animation: orbit111 14s infinite;
     animation-delay: 1.11s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit111 {
@@ -2405,7 +2405,7 @@ body{
   .c:nth-child(112) {
     animation: orbit112 14s infinite;
     animation-delay: 1.12s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit112 {
@@ -2426,7 +2426,7 @@ body{
   .c:nth-child(113) {
     animation: orbit113 14s infinite;
     animation-delay: 1.13s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit113 {
@@ -2447,7 +2447,7 @@ body{
   .c:nth-child(114) {
     animation: orbit114 14s infinite;
     animation-delay: 1.14s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit114 {
@@ -2468,7 +2468,7 @@ body{
   .c:nth-child(115) {
     animation: orbit115 14s infinite;
     animation-delay: 1.15s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit115 {
@@ -2489,7 +2489,7 @@ body{
   .c:nth-child(116) {
     animation: orbit116 14s infinite;
     animation-delay: 1.16s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit116 {
@@ -2510,7 +2510,7 @@ body{
   .c:nth-child(117) {
     animation: orbit117 14s infinite;
     animation-delay: 1.17s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit117 {
@@ -2531,7 +2531,7 @@ body{
   .c:nth-child(118) {
     animation: orbit118 14s infinite;
     animation-delay: 1.18s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit118 {
@@ -2552,7 +2552,7 @@ body{
   .c:nth-child(119) {
     animation: orbit119 14s infinite;
     animation-delay: 1.19s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit119 {
@@ -2573,7 +2573,7 @@ body{
   .c:nth-child(120) {
     animation: orbit120 14s infinite;
     animation-delay: 1.2s;
-    background-color: #3066E7;
+    background-color: #ff0100;
   }
   
   @keyframes orbit120 {
@@ -2594,7 +2594,7 @@ body{
   .c:nth-child(121) {
     animation: orbit121 14s infinite;
     animation-delay: 1.21s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit121 {
@@ -2615,7 +2615,7 @@ body{
   .c:nth-child(122) {
     animation: orbit122 14s infinite;
     animation-delay: 1.22s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit122 {
@@ -2636,7 +2636,7 @@ body{
   .c:nth-child(123) {
     animation: orbit123 14s infinite;
     animation-delay: 1.23s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit123 {
@@ -2657,7 +2657,7 @@ body{
   .c:nth-child(124) {
     animation: orbit124 14s infinite;
     animation-delay: 1.24s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit124 {
@@ -2678,7 +2678,7 @@ body{
   .c:nth-child(125) {
     animation: orbit125 14s infinite;
     animation-delay: 1.25s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit125 {
@@ -2699,7 +2699,7 @@ body{
   .c:nth-child(126) {
     animation: orbit126 14s infinite;
     animation-delay: 1.26s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit126 {
@@ -2720,7 +2720,7 @@ body{
   .c:nth-child(127) {
     animation: orbit127 14s infinite;
     animation-delay: 1.27s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit127 {
@@ -2741,7 +2741,7 @@ body{
   .c:nth-child(128) {
     animation: orbit128 14s infinite;
     animation-delay: 1.28s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit128 {
@@ -2762,7 +2762,7 @@ body{
   .c:nth-child(129) {
     animation: orbit129 14s infinite;
     animation-delay: 1.29s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit129 {
@@ -2783,7 +2783,7 @@ body{
   .c:nth-child(130) {
     animation: orbit130 14s infinite;
     animation-delay: 1.3s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit130 {
@@ -2804,7 +2804,7 @@ body{
   .c:nth-child(131) {
     animation: orbit131 14s infinite;
     animation-delay: 1.31s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit131 {
@@ -2825,7 +2825,7 @@ body{
   .c:nth-child(132) {
     animation: orbit132 14s infinite;
     animation-delay: 1.32s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit132 {
@@ -2846,7 +2846,7 @@ body{
   .c:nth-child(133) {
     animation: orbit133 14s infinite;
     animation-delay: 1.33s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit133 {
@@ -2867,7 +2867,7 @@ body{
   .c:nth-child(134) {
     animation: orbit134 14s infinite;
     animation-delay: 1.34s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit134 {
@@ -2888,7 +2888,7 @@ body{
   .c:nth-child(135) {
     animation: orbit135 14s infinite;
     animation-delay: 1.35s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit135 {
@@ -2909,7 +2909,7 @@ body{
   .c:nth-child(136) {
     animation: orbit136 14s infinite;
     animation-delay: 1.36s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit136 {
@@ -2930,7 +2930,7 @@ body{
   .c:nth-child(137) {
     animation: orbit137 14s infinite;
     animation-delay: 1.37s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit137 {
@@ -2951,7 +2951,7 @@ body{
   .c:nth-child(138) {
     animation: orbit138 14s infinite;
     animation-delay: 1.38s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit138 {
@@ -2972,7 +2972,7 @@ body{
   .c:nth-child(139) {
     animation: orbit139 14s infinite;
     animation-delay: 1.39s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit139 {
@@ -2993,7 +2993,7 @@ body{
   .c:nth-child(140) {
     animation: orbit140 14s infinite;
     animation-delay: 1.4s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit140 {
@@ -3014,7 +3014,7 @@ body{
   .c:nth-child(141) {
     animation: orbit141 14s infinite;
     animation-delay: 1.41s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit141 {
@@ -3035,7 +3035,7 @@ body{
   .c:nth-child(142) {
     animation: orbit142 14s infinite;
     animation-delay: 1.42s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit142 {
@@ -3056,7 +3056,7 @@ body{
   .c:nth-child(143) {
     animation: orbit143 14s infinite;
     animation-delay: 1.43s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit143 {
@@ -3077,7 +3077,7 @@ body{
   .c:nth-child(144) {
     animation: orbit144 14s infinite;
     animation-delay: 1.44s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit144 {
@@ -3098,7 +3098,7 @@ body{
   .c:nth-child(145) {
     animation: orbit145 14s infinite;
     animation-delay: 1.45s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit145 {
@@ -3119,7 +3119,7 @@ body{
   .c:nth-child(146) {
     animation: orbit146 14s infinite;
     animation-delay: 1.46s;
-    background-color:skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit146 {
@@ -3140,7 +3140,7 @@ body{
   .c:nth-child(147) {
     animation: orbit147 14s infinite;
     animation-delay: 1.47s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit147 {
@@ -3161,7 +3161,7 @@ body{
   .c:nth-child(148) {
     animation: orbit148 14s infinite;
     animation-delay: 1.48s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit148 {
@@ -3182,7 +3182,7 @@ body{
   .c:nth-child(149) {
     animation: orbit149 14s infinite;
     animation-delay: 1.49s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit149 {
@@ -3203,7 +3203,7 @@ body{
   .c:nth-child(150) {
     animation: orbit150 14s infinite;
     animation-delay: 1.5s;
-    background-color: skyblue;
+    background-color: orangered;
   }
   
   @keyframes orbit150 {
@@ -6378,7 +6378,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     color: #5A4382;
-    right: 30%;
+    right: 34%;
     position: absolute;
     top: 35%;
     text-align: center;
@@ -6386,7 +6386,7 @@ body{
 
     }
 
-  .vision-text{
+  .team-text{
       top: 50%;
       right: 12%;
       position: absolute;
@@ -6407,7 +6407,7 @@ body{
     font-size: 25px;
     text-align: center;
     border-width: 5px;
-    border-color:#0E31B6;
+    border-color:#B60E0E;
     padding: 15px 32px;
       
   }
