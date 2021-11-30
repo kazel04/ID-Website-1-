@@ -2,6 +2,7 @@
 <head>
 <link rel="stylesheet" href="mainpage.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
     <body>
 
@@ -16,13 +17,11 @@
         }
         </script>
 
-        <!-- Background video + add semantic tags!!!!!! -->
-        <div class = "video-div">
-            <video autoplay muted loop id="Video">
-                <source src="myproject4-unreal-editor-2021-11-01-01-17-59-sparkvideo_iTTJR7r1.mp4" type="video/mp4">
-                Your browser does not support HTML5 video.
-                </video>
-        </div>
+        <!-- Background for desktop + add semantic tags!!!!!! -->
+        <!-- partial:index.partial.html -->
+        <!-- particles.js container --> 
+    <div id="particles-js"></div>
+        
 
         <!-- Hamburger menu (mobile exclusive) (ref from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar) -->
         <!-- Change elements below and change css to hide (https://stackoverflow.com/questions/53701003/how-to-remove-the-hamburger-menu-icon-in-desktop-screen-but-only-needed-in-mobil)-->
@@ -39,18 +38,6 @@
               <i class="fa fa-bars"></i>
             </a>
     </div>
-
-        <!-- header list of elements (web exclusive) -->
-        <div>
-            <ul class="header-list">
-                <li class="vision"><a href="/vision/"><span>VISION</span></a></li>
-                <li class="whoweare"><a href="/team/"><span>TEAM</span></a></li>
-                <li class="partner"><a href="/partners/"><span>PARTNERS</span></a></li>
-                <li class="contact"><a href="/contactus/"><span>CONTACT US</span></a></li>
-                <li class="language"><a href="/language/"><span>LANGUAGES</span></a></li>
-                <li class="demo"><a href="/demo/"><span>DEMO </span></a></li>
-              </ul>
-        </div>
 
         <!-- title -->
         <div class="title">
@@ -86,8 +73,9 @@
     </script>
     <script  
     src="./script.js">
-
     </script>
+ 
+    
 
 
 
