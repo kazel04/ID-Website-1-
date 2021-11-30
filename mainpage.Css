@@ -202,6 +202,10 @@ width: 50px;
 height: auto;  
 }  
 
+.ScrollImg{
+  display: none;
+}
+
 .ScrollTextDesktop{
   color: #FFFFFF;
   font-family: Trebuchet;
