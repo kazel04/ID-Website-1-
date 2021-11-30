@@ -410,7 +410,7 @@ function render(a) {
   }
 };
 
-
+copy.addEventListener("keyup", initScene);
 window.addEventListener("resize", initScene);
 window.addEventListener("mousemove", onMouseMove);
 window.addEventListener("touchmove", onTouchMove);
