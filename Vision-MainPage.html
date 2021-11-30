@@ -3,6 +3,8 @@
   <link rel="stylesheet" href="vision-mainpage.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+
+
 </head>
 <body>
     <script>
@@ -16,7 +18,14 @@
             x.style.display = "block";
           }
         }
+
+        //function for scrolling
+
+        function clickFunction() {
+        location.replace("Team-MainPage.html")
+        };
         </script>
+        
 
             <!-- Hamburger menu (mobile exclusive) (ref from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar) -->
         <!-- Change elements below and change css to hide (https://stackoverflow.com/questions/53701003/how-to-remove-the-hamburger-menu-icon-in-desktop-screen-but-only-needed-in-mobil)-->
@@ -33,6 +42,7 @@
             <i class="fa fa-bars"></i>
           </a>
   </div>
+  <div onclick= "clickFunction()">
 
     
 
@@ -385,12 +395,14 @@
 
     <!-- Scroll text -->
     <div>
-        <p class="ScrollText"> SCROLL FOR MORE </p>
+        <p class="ScrollText"> CLICK FOR MORE </p>
     </div>
+
+  </div>
+    
 
 
 
 </body>
-
 
 </html>

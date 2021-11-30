@@ -3,19 +3,22 @@
 <link rel="stylesheet" href="mainpage.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+<script>
+    function myFunction() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";  
+        }
+    }
+    </script>
+
 </head>
     <body>
 
-        <script>
-        function myFunction() {
-        var x = document.getElementById("myLinks");
-        if (x.style.display === "block") {
-            x.style.display = "none";
-        } else {
-            x.style.display = "block";  
-            }
-        }
-        </script>
+    
 
         <!-- Background for desktop + add semantic tags!!!!!! -->
         <!-- partial:index.partial.html -->
@@ -26,7 +29,7 @@
         <!-- Hamburger menu (mobile exclusive) (ref from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_mobile_navbar) -->
         <!-- Change elements below and change css to hide (https://stackoverflow.com/questions/53701003/how-to-remove-the-hamburger-menu-icon-in-desktop-screen-but-only-needed-in-mobil)-->
         <div class="topnav">
-            <a href="#home" class="active">Psyche</a>
+            <a href="index.html" class="active">Psyche</a>
             <div id="myLinks">
               <a href="/vision/">VISION</a>
               <a href="/team/">TEAM</a>
@@ -39,6 +42,7 @@
             </a>
     </div>
 
+    <div onclick= "clickFunction()">
         <!-- title -->
         <div class="title">
             <h1> Metaverse </h1>
@@ -69,8 +73,10 @@
 
         <!-- Scroll text for desktop -->
         <div>
-            <p class="ScrollTextDesktop"> SCROLL FOR MORE </p>
+            <p class="ScrollTextDesktop"> CLICK FOR MORE </p>
         </div>
+    </div>
+
 
 
      

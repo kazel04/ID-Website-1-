@@ -419,3 +419,14 @@ window.addEventListener("touchend", onTouchEnd);
 initScene();
 requestAnimationFrame(render);
 }
+
+// script for animated transitions for scrolling 
+  //timeout to prevent unintentional double scrolling (edited from stack overflow:https://stackoverflow.com/questions/22018348/window-scroll-events-triggering-twice/22018607)
+  // animate content
+
+
+function clickFunction() {
+        location.replace("Vision-MainPage.html")
+};
+
+
