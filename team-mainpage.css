@@ -49,7 +49,7 @@
   }
   .title{
     position: absolute;
-    right: 35%;
+    right: 38%;
     color: #5A4382;
     top: 30%;
     text-align: center;
@@ -59,7 +59,7 @@
 
     .team-text{
         top: 43%;
-        right: 13%;
+        right: 10%;
         position: absolute;
         text-align: center;
         font-size: 40px;
@@ -85,7 +85,7 @@
   .ScrollImg{
     position: absolute;
     bottom: -200px;
-    right: 44%;
+    right: 46%;
     height: 400px;
     width: auto;
     
@@ -103,7 +103,7 @@ img {
     font-size: 25px;
     position: absolute;
     bottom: 5px;
-    right: 42%;
+    right: 44%;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
