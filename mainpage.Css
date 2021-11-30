@@ -1,103 +1,113 @@
 /*CSS for mobile*/
 
-body{
-    background-color: black;
-}
-
-.video-div{
-    opacity: 0.5;
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    filter: brightness(50%);
-    display: none;
-}
-
-.topnav {
-    overflow: hidden;
-    position: relative;
-    top: 0;
-    backface-visibility: hidden;
-  }
-  
-  .topnav #myLinks {
-    display: none;
-  }
-  
-  .topnav a {
-    color: #9B85A7;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 80px;
-    display: block;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
-  
-  .topnav a.icon {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-    color: white;
-  }
-  
-  
-  .active {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 80px;
-    color: #9B85A7;
-    font-style: regular;
-
-
+@media only screen and (max-width: 1025px) {
+  body{
+      background-color: black;
   }
 
-  .title{
-    position: absolute;
-    right: 25%;
-    color: white;
-    top: 35%;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 40px;
-
+  .video-div{
+      opacity: 0.5;
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      filter: brightness(50%);
+      display: none;
   }
-  
-  .ScrollImg{
-    position: absolute;
-    bottom: 100px;
-    right: 44%;
-    height: 100px;
-    width: auto;
+
+  .topnav {
+      overflow: hidden;
+      position: relative;
+      top: 0;
+      backface-visibility: hidden;
+    }
     
- }
+    .topnav #myLinks {
+      display: none;
+    }
+    
+    .topnav a {
+      color: #9B85A7;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 80px;
+      display: block;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .topnav a.icon {
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 0;
+      color: white;
+    }
+    
+    
+    .active {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 80px;
+      color: #9B85A7;
+      font-style: regular;
 
- img {  
-  width: 150px;  
-  height: auto;  
-  }  
 
-  .ScrollText{
-    grid-area: ScrollText;
-    color: #FFFFFF;
-    font-family: Trebuchet;
-    font-size: 25px;
-    position: absolute;
-    bottom: 5px;
-    right: 42%;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
- }
+    }
 
- .header-list{
+    .title{
+      position: absolute;
+      right: 25%;
+      color: white;
+      top: 35%;
+      text-align: center;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 40px;
+
+    }
+    
+    .ScrollImg{
+      position: absolute;
+      bottom: 100px;
+      right: 44%;
+      height: 100px;
+      width: auto;
+      
+  }
+
+  img {  
+    width: 150px;  
+    height: auto;  
+    }  
+
+    .ScrollText{
+      grid-area: ScrollText;
+      color: #FFFFFF;
+      font-family: Trebuchet;
+      font-size: 25px;
+      position: absolute;
+      bottom: 5px;
+      right: 42%;
+      text-align: center;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .header-list{
+      display: none;
+  }
+
+  #copy{
+    display:none;
+  }
+
+  .ScrollImgDesktop{
+    display:none;
+  }
+
+  .ScrollTextDesktop{
     display: none;
- }
-
- #copy{
-  display:none;
+  }
 }
 
 
@@ -162,6 +172,7 @@ body {
 canvas {
   display: block;
   vertical-align: bottom;
+  
 }
 
 #copy{
@@ -173,10 +184,11 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
+  z-index: -1; /* To allow menu to be accessed */
  
 }
 
-.ScrollImg{
+.ScrollImgDesktop{
   position: absolute;
   bottom: -25px;
   right: 48%;
@@ -185,13 +197,12 @@ canvas {
   
 }
 
-img {  
+.desktopIMG {  
 width: 50px;  
 height: auto;  
 }  
 
-.ScrollText{
-  grid-area: ScrollText;
+.ScrollTextDesktop{
   color: #FFFFFF;
   font-family: Trebuchet;
   font-size: 10px;
