@@ -1,8 +1,3 @@
-.click-func{
-    z-index: 50;
-    height: 100%;
-  }  
-
 /* For mobile version */
 @media only screen and (max-width: 1025px) {
     body{
@@ -23,7 +18,7 @@
       
     }
     
-    .topnav #myLinks {
+    .topnav #mylinks {
       display: none;
     }
     
@@ -54,7 +49,7 @@
   
     }
 
-    .Partners-SubTitle{
+    .Contact-SubTitle{
         position: absolute;
         right: 0%;
         color: #5A4382;
@@ -76,187 +71,227 @@
         
     }
 
-    .Partners-SubText{
+    .Contact-SubText{
         top: 28%;
-        right: 3%;
+        right: 13%;
         position: absolute;
         text-align: center;
-        font-size: 30px;
+        font-size: 40px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         color: white;
 
     }
 
-    .Partners-SubTextDesktop{
+    .Contact-SubTextDesktop{
         display: none;
     }
-    
-    .Image {  
-      width: 400px;  
-      height: auto; 
-      border-radius: 50%; 
-      }  
 
-    .Partner-Image1{
+    .button-link1{
         position: absolute;
-        bottom: 50%;
-        right: 29%;
-        height: 100px;
-        width: auto;
-    }
-
-
-    .Partner-Image2{
-        position: absolute;
-        bottom: 30%;
-        right: 29%;
-        height: 100px;
-        width: auto;
-    }
-
-    .Partner-Image3{
-        position: absolute;
-        bottom: 15%;
-        right: 29%;
-        height: 100px;
-        width: auto;
-    }
-
-   }
+        top: 40%;
+        right: 24%;
+        color: #5A4382;
+        background-color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 50px;
+        text-align: center;
+        border-width: 5px;
+        border-color:orangered;
+        padding: 55px 92px;
+          
+      }
 
     
+      .Contact-SubText2{
+        top: 58%;
+        right: 12%;
+        position: absolute;
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+
+    }
+
+    .Contact-SubTextDesktop2{
+        display: none;
+    }
+
+      .button-link2{
+        position: absolute;
+        top: 75%;
+        right: 22%;
+        color: #5A4382;
+        background-color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 50px;
+        text-align: center;
+        border-width: 5px;
+        border-color: skyblue;
+        padding: 55px 92px;
+          
+      }
+
+    
+}
+
+
+
+
+
 /* CSS for desktop-based */
 
 @media only screen and (min-width: 1025px) {
 
-  body{
-    background-color: black;
-  }
-
-  /* Add a black background color to the top navigation */
-  .topnav {
-    background-color:black;
-    overflow: hidden;
-    z-index: 2;
-  
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    color: #9B85A7;
-    text-decoration: none;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 25px;
-    margin-right: 120px;
-    z-index: 2;
-    
-  }
-  
-  .topnav #myLinks {
-    display: block;
-    margin-top: 15px;
-    z-index: 2;
-  
-
-  }
-  
-  /* Changing size and font of the 'Psyche' text logo */
-  .topnav a.active{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      font-size: 45px;
-      color: #9B85A7;
-      font-style: regular;
-  }
-  
-  
-  /* Hide the link that should open and close the topnav on small screens */
-  .topnav a.icon {
-    display: none;
-  }
-
-    .background{
-        top: 10%;
-        right: 0%;
-        width:100%;
-        height: 20%;
-        background-color: white;
-        z-index: -1;
+    body{
+      background-color: black;
     }
-    .Partners-SubTitle{
-        top: 5%;
-        right: 36%;
-        position: absolute;
-        text-align: center;
-        font-size: 50px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        color: #5A4382;
-        z-index: 1;
+  
+    /* Add a black background color to the top navigation */
+    .topnav {
+      background-color:black;
+      overflow: hidden;
+      z-index: 2;
+    
+    }
+    
+    /* Style the link1s inside the navigation bar */
+    .topnav a {
+      float: left;
+      display: block;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      color: #9B85A7;
+      text-decoration: none;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 25px;
+      margin-right: 120px;
+      z-index: 2;
+      
+    }
+    
+    .topnav #mylinks {
+      display: block;
+      margin-top: 15px;
+      z-index: 2;
+    
+      
+    }
+    
+    /* Changing size and font of the 'Psyche' text logo */
+    .topnav a.active{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 45px;
+        color: #9B85A7;
+        font-style: regular;
+    }
+    
+    
+    /* Hide the link1 that should open and close the topnav on small screens */
+    .topnav a.icon {
+      display: none;
+    }
+  
+      .background{
+          top: 10%;
+          right: 0%;
+          width:100%;
+          height: 20%;
+          background-color: white;
+          z-index: -1;
+      }
+      .Contact-SubTitle{
+          top: 5%;
+          right: 34%;
+          position: absolute;
+          text-align: center;
+          font-size: 50px;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          color: #5A4382;
+          z-index: 1;
+        }
+  
+        .Notch{
+          position: absolute;
+          top: 27%;
+          right: 48%;
+          height: 50px;
+          width: auto;
+          
+      }
+  
+      .Contact-SubTextDesktop{
+          top: 35%;
+          right: 58%;
+          position: absolute;
+          text-align: center;
+          font-size: 25px;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          color: white;
+  
+      }
+  
+      .Contact-SubText{
+          display: none;
       }
 
-      .Notch{
-        position: absolute;
-        top: 27%;
-        right: 48%;
-        height: 50px;
-        width: auto;
-        
-    }
-
-    .Partners-SubTextDesktop{
+      .Contact-SubTextDesktop2{
         top: 35%;
-        right: 24%;
+        right: 13%;
         position: absolute;
         text-align: center;
-        font-size: 20px;
+        font-size: 25px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         color: white;
 
     }
 
-    .Partners-SubText{
+    .Contact-SubText2{
         display: none;
     }
 
-    .Image {  
-      width: 300px;  
-      height: auto; 
-      border-radius: 50%; 
-      }  
 
-    .Partner-Image1{
+
+
+      .button-link1{
         position: absolute;
-        bottom: 35%;
-        right: 42%;
-        height: 40px;
-        width: auto;
-    }
+        top: 58%;
+        right: 63%;
+        color: #5A4382;
+        background-color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 30px;
+        text-align: center;
+        border-width: 5px;
+        border-color:orangered;
+        padding: 15px 35px;
+          
+      }
 
-    .Partner-Image2{
+      .button-link2{
         position: absolute;
-        bottom: 23%;
-        right: 70%;
-        height: 100px;
-        width: auto;
-    }
-
-    .Partner-Image3{
-        position: absolute;
-        bottom: 26%;
-        right: 15%;
-        height: 100px;
-        width: auto;
-    }
-}
+        top: 58%;
+        right: 21%;
+        color: #5A4382;
+        background-color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 30px;
+        text-align: center;
+        border-width: 5px;
+        border-color: skyblue;
+        padding: 15px 35px;
+          
+      }
 
 
-    /* Animation for helix */
+
+
+
+
+/* Animation for helix */
     
-#dna {
+  #dna {
     position: absolute;
     top: 50%;
     height: 500px;
@@ -584,4 +619,5 @@
     to {
       transform: rotateX(359deg);
     }
+    }  
 }
