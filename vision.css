@@ -464,6 +464,7 @@
   .topnav #myLinks {
     display: block;
     margin-top: 15px;
+    z-index: 2;
   
     
   }

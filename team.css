@@ -137,6 +137,7 @@
   .topnav {
     background-color:black;
     overflow: hidden;
+    z-index: 2;
   
   }
   
@@ -152,12 +153,14 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 25px;
     margin-right: 120px;
+    z-index: 2;
     
   }
   
   .topnav #myLinks {
     display: block;
     margin-top: 15px;
+    z-index: 2;
   
     
   }
@@ -192,6 +195,7 @@
         font-size: 50px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         color: #5A4382;
+        z-index: 1;
       }
 
       .Notch{
@@ -212,14 +216,14 @@
     .Team-Image1{
         position: absolute;
         bottom: 65%;
-        right: 65%;
+        right: 64%;
         height: 40px;
         width: auto;
     }
 
     .Team-ImageText1{
         top: 70%;
-        right: 62%;
+        right: 61%;
         position: absolute;
         text-align: center;
         font-size: 50px;
