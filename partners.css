@@ -1,0 +1,586 @@
+/* For mobile version */
+@media only screen and (max-width: 1025px) {
+    body{
+        background-color: black;
+    }
+  
+    .header-list{
+        display: none;
+    }
+  
+  
+  
+    .topnav {
+      overflow: hidden;
+      position: relative;
+      top: 0;
+      background-color: black;
+      
+    }
+    
+    .topnav #myLinks {
+      display: none;
+    }
+    
+    .topnav a {
+      color: #9B85A7;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 80px;
+      display: block;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .topnav a.icon {
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 5px;
+      color: white;
+    }
+    
+    
+    .active {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 80px;
+      color: #9B85A7;
+      font-style: regular;
+  
+  
+    }
+
+    .Partners-SubTitle{
+        position: absolute;
+        right: 0%;
+        color: #5A4382;
+        top: 10%;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 60px;
+        background-color: white;
+        width: 100%;
+        height: 15%;
+      }
+
+      .Notch{
+        position: absolute;
+        top: 24%;
+        right: 45%;
+        height: 100px;
+        width: auto;
+        
+    }
+
+    .Partners-SubText{
+        top: 28%;
+        right: 3%;
+        position: absolute;
+        text-align: center;
+        font-size: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+
+    }
+
+    .Partners-SubTextDesktop{
+        display: none;
+    }
+    
+    .Image {  
+      width: 400px;  
+      height: auto; 
+      border-radius: 50%; 
+      }  
+
+    .Partner-Image1{
+        position: absolute;
+        bottom: 50%;
+        right: 29%;
+        height: 100px;
+        width: auto;
+    }
+
+
+    .Partner-Image2{
+        position: absolute;
+        bottom: 30%;
+        right: 29%;
+        height: 100px;
+        width: auto;
+    }
+
+    .Partner-Image3{
+        position: absolute;
+        bottom: 15%;
+        right: 29%;
+        height: 100px;
+        width: auto;
+    }
+
+   }
+
+/* CSS for desktop-based */
+
+@media only screen and (min-width: 1025px) {
+    
+/* CSS for desktop-based */
+
+@media only screen and (min-width: 1025px) {
+
+  body{
+    background-color: black;
+  }
+
+  /* Add a black background color to the top navigation */
+  .topnav {
+    background-color:black;
+    overflow: hidden;
+    z-index: 2;
+  
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #9B85A7;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-right: 120px;
+    z-index: 2;
+    
+  }
+  
+  .topnav #myLinks {
+    display: block;
+    margin-top: 15px;
+    z-index: 2;
+  
+    
+  }
+  
+  /* Changing size and font of the 'Psyche' text logo */
+  .topnav a.active{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 45px;
+      color: #9B85A7;
+      font-style: regular;
+  }
+  
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav a.icon {
+    display: none;
+  }
+
+    .background{
+        top: 10%;
+        right: 0%;
+        width:100%;
+        height: 20%;
+        background-color: white;
+        z-index: -1;
+    }
+    .Partners-SubTitle{
+        top: 5%;
+        right: 36%;
+        position: absolute;
+        text-align: center;
+        font-size: 50px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: #5A4382;
+        z-index: 1;
+      }
+
+      .Notch{
+        position: absolute;
+        top: 27%;
+        right: 48%;
+        height: 50px;
+        width: auto;
+        
+    }
+
+    .Partners-SubTextDesktop{
+        top: 35%;
+        right: 24%;
+        position: absolute;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+
+    }
+
+    .Partners-SubText{
+        display: none;
+    }
+
+    .Image {  
+      width: 300px;  
+      height: auto; 
+      border-radius: 50%; 
+      }  
+
+    .Partner-Image1{
+        position: absolute;
+        bottom: 35%;
+        right: 42%;
+        height: 40px;
+        width: auto;
+    }
+
+    .Partner-Image2{
+        position: absolute;
+        bottom: 23%;
+        right: 70%;
+        height: 100px;
+        width: auto;
+    }
+
+    .Partner-Image3{
+        position: absolute;
+        bottom: 26%;
+        right: 15%;
+        height: 100px;
+        width: auto;
+    }
+}
+
+
+    /* Animation for helix */
+    
+#dna {
+    position: absolute;
+    top: 50%;
+    height: 500px;
+    left: 43%;
+    width: 1000px;
+    margin-top: -120px;
+    margin-left: -400px;
+    perspective: 1000px;
+    z-index: -1;
+    opacity: 50%;
+    transform: rotate(90deg);
+  }
+  #dna div {
+    position: relative;
+    top: 30%;
+    left: 60px;
+    width: 2px;
+    height: 300px;
+    margin-top: -80px;
+    background-color: rgba(255, 255, 255, 0.1);
+    float: left;
+    transform-style: preserve-3d;
+    margin-left: 20px;
+    animation: rotation 4s linear infinite;
+  }
+  #dna div::before {
+    content: "";
+    position: absolute;
+    top: -100px;
+    left: -4px;
+    right: -4px;
+    height: 10px;
+    background-color: orangered;
+    border-radius: 50px;
+    animation: rotation 4s linear infinite reverse;
+    z-index: 1;
+  }
+  #dna div::after {
+    content: "";
+    position: absolute;
+    bottom: -100px;
+    left: -4px;
+    right: -4px;
+    height: 10px;
+    background-color: skyblue;
+    border-radius: 50px;
+    animation: rotation 4s linear infinite reverse;
+    z-index: 1;
+  }
+
+  #dna div:nth-child(30) {
+    animation-delay: -55.5s;
+  }
+  #dna div:nth-child(30)::before {
+    animation-delay: -55.5s;
+  }
+  #dna div:nth-child(30)::after {
+    animation-delay: -55.5s;
+  }
+  #dna div:nth-child(29) {
+    animation-delay: -55.65s;
+  }
+  #dna div:nth-child(29)::before {
+    animation-delay: -55.65s;
+  }
+  #dna div:nth-child(29)::after {
+    animation-delay: -55.65s;
+  }
+  #dna div:nth-child(28) {
+    animation-delay: -55.8s;
+  }
+  #dna div:nth-child(28)::before {
+    animation-delay: -55.8s;
+  }
+  #dna div:nth-child(28)::after {
+    animation-delay: -55.8s;
+  }
+  #dna div:nth-child(27) {
+    animation-delay: -55.95s;
+  }
+  #dna div:nth-child(27)::before {
+    animation-delay: -55.95s;
+  }
+  #dna div:nth-child(27)::after {
+    animation-delay: -55.95s;
+  }
+  #dna div:nth-child(26) {
+    animation-delay: -56.1s;
+  }
+  #dna div:nth-child(26)::before {
+    animation-delay: -56.1s;
+  }
+  #dna div:nth-child(26)::after {
+    animation-delay: -56.1s;
+  }
+  #dna div:nth-child(25) {
+    animation-delay: -56.25s;
+  }
+  #dna div:nth-child(25)::before {
+    animation-delay: -56.25s;
+  }
+  #dna div:nth-child(25)::after {
+    animation-delay: -56.25s;
+  }
+  #dna div:nth-child(24) {
+    animation-delay: -56.4s;
+  }
+  #dna div:nth-child(24)::before {
+    animation-delay: -56.4s;
+  }
+  #dna div:nth-child(24)::after {
+    animation-delay: -56.4s;
+  }
+  #dna div:nth-child(23) {
+    animation-delay: -56.55s;
+  }
+  #dna div:nth-child(23)::before {
+    animation-delay: -56.55s;
+  }
+  #dna div:nth-child(23)::after {
+    animation-delay: -56.55s;
+  }
+  #dna div:nth-child(22) {
+    animation-delay: -56.7s;
+  }
+  #dna div:nth-child(22)::before {
+    animation-delay: -56.7s;
+  }
+  #dna div:nth-child(22)::after {
+    animation-delay: -56.7s;
+  }
+  #dna div:nth-child(21) {
+    animation-delay: -56.85s;
+  }
+  #dna div:nth-child(21)::before {
+    animation-delay: -56.85s;
+  }
+  #dna div:nth-child(21)::after {
+    animation-delay: -56.85s;
+  }
+  #dna div:nth-child(20) {
+    animation-delay: -57s;
+  }
+  #dna div:nth-child(20)::before {
+    animation-delay: -57s;
+  }
+  #dna div:nth-child(20)::after {
+    animation-delay: -57s;
+  }
+  #dna div:nth-child(19) {
+    animation-delay: -57.15s;
+  }
+  #dna div:nth-child(19)::before {
+    animation-delay: -57.15s;
+  }
+  #dna div:nth-child(19)::after {
+    animation-delay: -57.15s;
+  }
+  #dna div:nth-child(18) {
+    animation-delay: -57.3s;
+  }
+  #dna div:nth-child(18)::before {
+    animation-delay: -57.3s;
+  }
+  #dna div:nth-child(18)::after {
+    animation-delay: -57.3s;
+  }
+  #dna div:nth-child(17) {
+    animation-delay: -57.45s;
+  }
+  #dna div:nth-child(17)::before {
+    animation-delay: -57.45s;
+  }
+  #dna div:nth-child(17)::after {
+    animation-delay: -57.45s;
+  }
+  #dna div:nth-child(16) {
+    animation-delay: -57.6s;
+  }
+  #dna div:nth-child(16)::before {
+    animation-delay: -57.6s;
+  }
+  #dna div:nth-child(16)::after {
+    animation-delay: -57.6s;
+  }
+  #dna div:nth-child(15) {
+    animation-delay: -57.75s;
+  }
+  #dna div:nth-child(15)::before {
+    animation-delay: -57.75s;
+  }
+  #dna div:nth-child(15)::after {
+    animation-delay: -57.75s;
+  }
+  #dna div:nth-child(14) {
+    animation-delay: -57.9s;
+  }
+  #dna div:nth-child(14)::before {
+    animation-delay: -57.9s;
+  }
+  #dna div:nth-child(14)::after {
+    animation-delay: -57.9s;
+  }
+  #dna div:nth-child(13) {
+    animation-delay: -58.05s;
+  }
+  #dna div:nth-child(13)::before {
+    animation-delay: -58.05s;
+  }
+  #dna div:nth-child(13)::after {
+    animation-delay: -58.05s;
+  }
+  #dna div:nth-child(12) {
+    animation-delay: -58.2s;
+  }
+  #dna div:nth-child(12)::before {
+    animation-delay: -58.2s;
+  }
+  #dna div:nth-child(12)::after {
+    animation-delay: -58.2s;
+  }
+  #dna div:nth-child(11) {
+    animation-delay: -58.35s;
+  }
+  #dna div:nth-child(11)::before {
+    animation-delay: -58.35s;
+  }
+  #dna div:nth-child(11)::after {
+    animation-delay: -58.35s;
+  }
+  #dna div:nth-child(10) {
+    animation-delay: -58.5s;
+  }
+  #dna div:nth-child(10)::before {
+    animation-delay: -58.5s;
+  }
+  #dna div:nth-child(10)::after {
+    animation-delay: -58.5s;
+  }
+  #dna div:nth-child(9) {
+    animation-delay: -58.65s;
+  }
+  #dna div:nth-child(9)::before {
+    animation-delay: -58.65s;
+  }
+  #dna div:nth-child(9)::after {
+    animation-delay: -58.65s;
+  }
+  #dna div:nth-child(8) {
+    animation-delay: -58.8s;
+  }
+  #dna div:nth-child(8)::before {
+    animation-delay: -58.8s;
+  }
+  #dna div:nth-child(8)::after {
+    animation-delay: -58.8s;
+  }
+  #dna div:nth-child(7) {
+    animation-delay: -58.95s;
+  }
+  #dna div:nth-child(7)::before {
+    animation-delay: -58.95s;
+  }
+  #dna div:nth-child(7)::after {
+    animation-delay: -58.95s;
+  }
+  #dna div:nth-child(6) {
+    animation-delay: -59.1s;
+  }
+  #dna div:nth-child(6)::before {
+    animation-delay: -59.1s;
+  }
+  #dna div:nth-child(6)::after {
+    animation-delay: -59.1s;
+  }
+  #dna div:nth-child(5) {
+    animation-delay: -59.25s;
+  }
+  #dna div:nth-child(5)::before {
+    animation-delay: -59.25s;
+  }
+  #dna div:nth-child(5)::after {
+    animation-delay: -59.25s;
+  }
+  #dna div:nth-child(4) {
+    animation-delay: -59.4s;
+  }
+  #dna div:nth-child(4)::before {
+    animation-delay: -59.4s;
+  }
+  #dna div:nth-child(4)::after {
+    animation-delay: -59.4s;
+  }
+  #dna div:nth-child(3) {
+    animation-delay: -59.55s;
+  }
+  #dna div:nth-child(3)::before {
+    animation-delay: -59.55s;
+  }
+  #dna div:nth-child(3)::after {
+    animation-delay: -59.55s;
+  }
+  #dna div:nth-child(2) {
+    animation-delay: -59.7s;
+  }
+  #dna div:nth-child(2)::before {
+    animation-delay: -59.7s;
+  }
+  #dna div:nth-child(2)::after {
+    animation-delay: -59.7s;
+  }
+  #dna div:nth-child(1) {
+    animation-delay: -59.85s;
+  }
+  #dna div:nth-child(1)::before {
+    animation-delay: -59.85s;
+  }
+  #dna div:nth-child(1)::after {
+    animation-delay: -59.85s;
+  }
+  @-webkit-keyframes rotation {
+    from {
+      transform: rotateX(0deg);
+    }
+    to {
+      transform: rotateX(359deg);
+    }
+  }
+}
