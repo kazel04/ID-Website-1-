@@ -74,6 +74,7 @@
       right: 44%;
       height: 100px;
       width: auto;
+  
       
   }
 
@@ -216,6 +217,10 @@ height: auto;
   right: 47%;
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.click-func{
+  z-index: 1;
 }
 
 
