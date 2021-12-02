@@ -77,7 +77,7 @@
     }
 
     .Partners-SubText{
-        top: 28%;
+        top: 30%;
         right: 3%;
         position: absolute;
         text-align: center;
@@ -92,15 +92,15 @@
     }
     
     .Image {  
-      width: 400px;  
+      width: 300px;  
       height: auto; 
       border-radius: 50%; 
       }  
 
     .Partner-Image1{
         position: absolute;
-        bottom: 50%;
-        right: 29%;
+        bottom: 25%;
+        right: 60%;
         height: 100px;
         width: auto;
     }
@@ -108,16 +108,16 @@
 
     .Partner-Image2{
         position: absolute;
-        bottom: 30%;
-        right: 29%;
+        bottom: 13%;
+        right: 35%;
         height: 100px;
         width: auto;
     }
 
     .Partner-Image3{
         position: absolute;
-        bottom: 15%;
-        right: 29%;
+        bottom: 24%;
+        right: 13%;
         height: 100px;
         width: auto;
     }
@@ -209,7 +209,7 @@
 
     .Partners-SubTextDesktop{
         top: 35%;
-        right: 24%;
+        right: 13.5%;
         position: absolute;
         text-align: center;
         font-size: 20px;
@@ -223,14 +223,14 @@
     }
 
     .Image {  
-      width: 300px;  
+      width: 200px;  
       height: auto; 
       border-radius: 50%; 
       }  
 
     .Partner-Image1{
         position: absolute;
-        bottom: 35%;
+        bottom: 23%;
         right: 42%;
         height: 40px;
         width: auto;
@@ -238,7 +238,7 @@
 
     .Partner-Image2{
         position: absolute;
-        bottom: 23%;
+        bottom: 13%;
         right: 70%;
         height: 100px;
         width: auto;
@@ -246,7 +246,7 @@
 
     .Partner-Image3{
         position: absolute;
-        bottom: 26%;
+        bottom: 14%;
         right: 15%;
         height: 100px;
         width: auto;
