@@ -44,7 +44,7 @@
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       font-size: 80px;
       color: #9B85A7;
-      font-style: regular;
+      
   
   
     }
@@ -155,7 +155,7 @@
     
     }
     
-    /* Style the link1s inside the navigation bar */
+    /* Style the links inside the navigation bar */
     .topnav a {
       float: left;
       display: block;
@@ -184,7 +184,7 @@
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size: 45px;
         color: #9B85A7;
-        font-style: regular;
+        
     }
     
     
