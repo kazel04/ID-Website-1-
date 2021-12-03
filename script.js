@@ -4,7 +4,7 @@ console.log(screen.width)
 if (screen.width < 1366)
 {
 
-  //Edited animation from Marco Dell Anna's original open source Stardust background.
+  //Edited animation from an open source background: https://codepen.io/Mamboleoo/pen/obWGYr
   let particles = [];
   let microparticles = [];
 
