@@ -45,14 +45,23 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 - Interactive Product Demonstrations once a beta version is complete
 - Mailing list/update list option for people to keep updated with the progress of the project
-- 
+- Interactive team page where the users can click on the images to learn more about each team member
 
 ## Technologies Used
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Particles.js](https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js)
+    - The project uses **particles.js** to provide particle animations
+
+- [Material+Icons](https://fonts.googleapis.com/icon?family=Material+Icons)
+    - The project uses **Material+Icons** to assist with the particle animation creation
+
+
+ - [Materialise CSS](https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js)
+    - The project uses **Materialise CSS** as the UI component libary to aid in the design of the form page
+
+
 
 
 ## Testing
@@ -60,22 +69,46 @@ In this section, you should mention all of the languages, frameworks, libraries,
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 1. Contact form:
-    1. Go to the "Contact Us" page
+    1. Go to the "Enquiry.html" page
     2. Try to submit the empty form and verify that an error message about the required fields appears
     3. Try to submit the form with an invalid email address and verify that a relevant error message appears
     4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+2. Index Page:
+    1. Go to the Index.html page
+    2. Try to move the cursor over the animation and verify that the animation will be in motion
+    3. Try to click on the webpage and check that the page will jump to the next section
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+3. Top navigation bar
+    1. Click on each link in the navigation bar and ensures that they link to the correct page
+    2. Ensure that the navigation bar appears for each main webpage
+    3. Ensure that the navigation bar appears as a hamburger menu when the mobile view is used
+
+4. Main Webpages
+    1. Go to each of the main webpages
+    2. Ensure that the animation is correctly formatted for mobile and web views
+    3. Try to click on the webpage and check that the page will jump to the next section
+    4. Ensure that the buttons link to the correct webpage
+
+
+In the mobile view, the index.html file will show plain text over an animated background instead of animated text, and the text will be smaller due to size limitations
+The top navigation bar will be shown as a hamburger menu which can be expanded when clicked.
+
+Meanwhile, the animations and text formatting for the main webpages and information pages will be different to fit the size constraints.
+
+In the web view, the index.html file will show the animated text and all of the full menu options.
+The main webpages and information pages will also show lengthier explanations with full menu options.
+
+An interesting problem was the issue of formatting where the text appeared in odd places in the mobile view and required checks and edits to correct them.
+Another problem was the issue of animations not being loaded properly in the mobile view and required edits or even total changes in order to make the webpages look presentable.
 
 ## Credits
 
-### Content
-- The text and images are all from the developer himself
+### Content (except for form page)
+- The text and images are all from myself (except for form page icons)
 - Animations and form are improved upon and modified from open source code from Codepen
+- Form page icons are from Material+Icons
 
 ### Media
 - The assets used such as the heart notch and triangles were created from Adobe XD.
