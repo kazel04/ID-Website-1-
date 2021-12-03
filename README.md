@@ -33,13 +33,19 @@ Wireframe for the project is in this repository as ID_S10222282_KohEnYang_Assg1_
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Interactive particle text - 
-- ...
+- Interactive particle text - Allows users to interact with the particle animation and get an idea of our core technologies used as well as future-oriented work.
+- Click-To-Scroll - Provides an unorthodox way for users to scroll through the sections of the mainpage, making the website more memorable
+- Responsive Navigation Menu - Allows users to navigate around the website
+- Short Summaries - Provides users with a simple summary of the different aspects of our work and an option to learn more
+- Main Content Pages - Provides more information on the different areas of our work
+
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- Interactive Product Demonstrations once a beta version is complete
+- Mailing list/update list option for people to keep updated with the progress of the project
+- 
 
 ## Technologies Used
 
@@ -68,10 +74,11 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-a
+- The text and images are all from the developer himself
+- Animations and form are improved upon and modified from open source code from Codepen
+
 ### Media
-- The photos used in this site were obtained from ...
+- The assets used such as the heart notch and triangles were created from Adobe XD.
 
 ### Acknowledgements
 
