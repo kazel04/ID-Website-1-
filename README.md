@@ -1,26 +1,39 @@
-# Your Project's Name
+# Psyche Info Website
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
+The purpose of the website is to inform users about the purpose of the new social project, Psyche, as well as provide the means for users to send enquiries about the social project.
 
-Essentially, this part is your sales pitch.
  
 ## Design Process
  
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The website is catering to users who want to know more about the social project, most likely mental health professionals, journalists and youths.
+These users would want to understand more about the project and learn about the vision and purpose of the project.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+Hence, the website's content is designed to meet the needs and expectations of these different groups of users and displays the purpose of the social project through non-text means.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. 
+For example, smooth and futuristic animations such as circular particle movements and bright primary colours place emphasis on the future-oriented aspect of the project.
+Meanwhile, the homepage utilises a mixture of two animations edited from open source designs in order to convey the image of candlelights among a bed of stars.
+These designs have a subliminal message of hope, futurism and human warmth.
+
+The key value that the website is providing to users is an interactive and non-conventional explanation on what the Psyche social project is through the use of aesthetic features and short summaries.
+These short summaries are included in the mainpage section of the website which links to additional webpages which contain more detailed information about specific aspects of the project. 
+These aspects include the vision, team, current work and contact information.
+
+To facilitate requests for more information from users, the contact page also links out to a seperate form for users to send their enquiries to the project organisers.
+
+A few user stories are included here:
+- As a student interested in mental health, I want to look through the website to find out what the social project is working on, so that I can further understand what the social project is contributing to Singapore's mental healthcare system.
+- As a journalist covering new technologies, I want to understand the new technologies that the project is developing so that I can understand the technologies used for mental healthcare today which would help with my reporting and articles.
+- As a student who is looking into volunteering opportunities, I want to look through the website's vision page to understand whether the project's goals align with mine, and find out how I can contact the organisation for volunteering.
+
+Wireframe for the project is in this repository as ID_S10222282_KohEnYang_Assg1_wireframe.
+
 
 ## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
+- Interactive particle text - 
 - ...
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
@@ -56,10 +69,21 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
+a
 ### Media
 - The photos used in this site were obtained from ...
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+This website references open source code from multiple source, and all open source are modified and improved upon.
+Some modifications and improvements made would be the fusion of multiple pieces of code, altering the colours and rotation of the animations, expanding or reducing the size of certain designs and many more other edits.
+
+
+References:
+
+Text-To-Particles: https://codepen.io/Mamboleoo/pen/obWGYr
+Stars With ParticleJS: https://codepen.io/bob6664569/pen/rOzmve
+Top Nav Bar: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+Particle Orb: https://codepen.io/natewiley/pen/GgONKy
+Helix: https://codepen.io/michal-marchewczyk/pen/mjYLjP
+
